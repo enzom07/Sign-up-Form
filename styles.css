@@ -1,0 +1,59 @@
+body{
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+  
+   
+}
+
+.photo{
+    width: 40vw;
+    height: 100vh;
+  
+    
+  
+}
+
+
+.logo-left{
+
+    position: absolute;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    bottom: 400px;
+    color: #fff;
+    font-size: 80px;
+    width: 40vw; 
+}
+
+.bar{
+    position: absolute;
+    bottom: 400px;
+    width: 40vw;
+    height: 180px;
+    background-color: black; 
+    opacity: 30%;
+
+}
+
+.logo{
+
+    width: 10vw;
+
+}
+
+.footer{
+    
+    position: absolute;
+    bottom: 4px;
+    left: 160px;
+    color: white;
+
+
+}
+
+.rigth{
+    background-color: #fff;
+}
